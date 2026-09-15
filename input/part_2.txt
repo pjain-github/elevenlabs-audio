@@ -1,0 +1,9 @@
+[excited] The entire software industry just experienced a massive paradigm shift. OpenAI dropped GPT-6 Astra, a model trained on over one hundred thousand GPUs at their Stargate facility. It was built specifically to operate computers entirely on its own. We are talking about an AI that designs circuit boards, builds three-dimensional cities in Unity, and scores a mind-bending 99.9 percent on the ARC-AGI-3 reasoning test. Jensen Huang and Greg Brockman are literally calling this the start of the AGI era.
+
+[pause] [serious] But that 99.9 percent score is basically an illusion. OpenAI achieved that number using a highly specialized, stateful adapter harness.
+
+How this works is that the AI isn't actually solving these complex logic puzzles in a vacuum. The harness acts like an external cognitive life-support system. It caches every single intermediate reasoning step, constantly cross-references its own logic against an external validation loop, and essentially "remembers" the layout of the test environment as it navigates. It is like taking a final exam while tethered to an entire team of tutors feeding you continuous hints.
+
+[dramatic pause] But when independent researchers tested Astra under standard, stateless conditions—where it actually has to think in isolation without persistent memory aids or specialized scaffolding—[disbelief] that score crashed down to 62.7 percent. Yes, it is still a huge leap over the older GPT-5.6, but it proves there is a massive gap between raw intelligence and heavily engineered testing environments.
+
+Meanwhile, Anthropic released Claude Fable 5.1. They didn't try to win the AGI hype war. Instead, they built a model specifically optimized for one thing: running massive coding refactors and agentic loops without crashing your server bill.

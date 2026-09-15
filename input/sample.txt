@@ -1,0 +1,1 @@
+Hello! This text was loaded from a file in the input directory.

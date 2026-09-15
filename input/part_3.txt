@@ -1,0 +1,7 @@
+[serious] The biggest mistake developers make is misunderstanding token economics. AI agents do not just ask a question and get a single answer. They operate in continuous feedback loops. They re-read your system prompt, your software documentation, and your conversation history hundreds of times an hour. This is called a cache read. And it is the most important line item on your bill.
+
+Anthropic priced Fable 5.1's cache reads at twenty-five cents per million tokens. OpenAI priced Astra's cache reads at one dollar. [skeptical] That means the exact same repetitive workload is four times more expensive on Astra.
+
+[intense] And it gets worse. If you feed Astra a massive prompt—anything over 272,000 tokens—they hit you with a hidden penalty. The entire request gets repriced at double the input cost. Fable 5.1 does not do this.
+
+When independent testers ran the KingBench 3 app-building suite, these hidden mechanics became obvious. Running the exact same coding tests cost 113 dollars using Fable 5.1. Those same tasks cost 198 dollars using Astra. [disbelief] Astra burned through 75 percent more money, and actually scored two points lower on the quality test.

@@ -1,0 +1,3 @@
+[urgent] Stop trusting the AI benchmark scores you saw on Twitter this morning. [intense] The actual cost of running OpenAI's new GPT-6 Astra is a massive financial trap that could completely bankrupt your automated workflows before you even deploy them.
+
+On paper, GPT-6 Astra and Anthropic's Claude Fable 5.1 list at the exact same price. Ten dollars in, fifty dollars out. [skeptical] But the reality of running these systems reveals a hidden pricing mechanic that makes one model drastically more expensive than the other. [serious] If you are building AI agents in 2026, picking the wrong model based on a spec sheet is going to ruin your margins. Here is exactly what the benchmark tables are hiding from you.

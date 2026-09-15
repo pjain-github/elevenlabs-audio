@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Audio outputs and inputs
+*.mp3
+*.wav
+input/*
+!input/.gitkeep
+!input/*.txt
+output/*
+!output/.gitkeep
